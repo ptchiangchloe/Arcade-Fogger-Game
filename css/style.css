@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.selectPlayerText {
+  font-weight: bold;
+}
+
+.char-name {
+  display: block;
+}
+
+.start-btn {
+  margin-top: 20px;
+}
+
+img{
+  width: 80%;
+  height: 80%;
+}
